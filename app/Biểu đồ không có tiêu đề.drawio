@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-29T02:33:57.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="afh1Lk9egmFCv3jj8O4N" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-29T02:36:45.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="WRZyA6mzpLMgFmCvMJd2" version="21.6.5" type="github">
   <diagram name="Trang-1" id="HmHJznW3e-0r1fUKdLs1">
     <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="412.5" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="583.5" y="285" />
+              <mxPoint x="550" y="285" />
+              <mxPoint x="550" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -57,6 +58,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="8baHXAdogus_rsqitEac-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8baHXAdogus_rsqitEac-15" target="8baHXAdogus_rsqitEac-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="570" />
+              <mxPoint x="506" y="570" />
+              <mxPoint x="506" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8baHXAdogus_rsqitEac-15" value="Turn on relay 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="475" width="120" height="60" as="geometry" />
         </mxCell>
@@ -80,6 +91,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="8baHXAdogus_rsqitEac-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8baHXAdogus_rsqitEac-23" target="8baHXAdogus_rsqitEac-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8baHXAdogus_rsqitEac-23" value="Turn on relay 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="595" width="120" height="60" as="geometry" />
         </mxCell>
@@ -90,7 +108,7 @@
           <mxGeometry x="370" y="328" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8baHXAdogus_rsqitEac-28" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="588" width="40" height="30" as="geometry" />
+          <mxGeometry x="460" y="595" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8baHXAdogus_rsqitEac-30" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="369" y="555" width="40" height="30" as="geometry" />
