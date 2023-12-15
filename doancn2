@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T15:54:12.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="FzhO0BoBxqlqRjKFAGil" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T15:55:14.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="SRsWSzDCEI8LrpC7AJdF" version="21.6.6" type="github">
   <diagram name="Trang-1" id="FufQLW-WijjLcz8rWGgX">
-    <mxGraphModel dx="2253" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="751" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,10 +20,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z4veTXsXBCUaNvhcwzNW-2" value="Read Sensor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z4veTXsXBCUaNvhcwzNW-4" value="Display LCD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z4veTXsXBCUaNvhcwzNW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z4veTXsXBCUaNvhcwzNW-6" target="Z4veTXsXBCUaNvhcwzNW-7">
           <mxGeometry relative="1" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="335" y="400" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Z4veTXsXBCUaNvhcwzNW-14" value="Send Data To Cloud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="25" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z4veTXsXBCUaNvhcwzNW-17" value="CONTROL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="340" width="80" height="30" as="geometry" />
